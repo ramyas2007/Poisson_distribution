@@ -1,4 +1,4 @@
-# Exp no:
+# Exp no:2
 # Date:
 
 # Fitting Poisson  distribution
